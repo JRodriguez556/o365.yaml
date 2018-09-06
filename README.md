@@ -1,1 +1,1 @@
-# Beta Phishlet for Evilginx2 - 365.yaml
+# Beta Phishlet for Evilginx2 - o365.yaml
